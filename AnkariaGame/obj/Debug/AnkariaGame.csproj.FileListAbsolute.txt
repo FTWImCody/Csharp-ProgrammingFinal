@@ -1,0 +1,42 @@
+C:\Users\cmcne\source\repos\AnkariaGame\AnkariaGame\bin\Debug\AnkariaGame.exe.config
+C:\Users\cmcne\source\repos\AnkariaGame\AnkariaGame\bin\Debug\AnkariaGame.exe
+C:\Users\cmcne\source\repos\AnkariaGame\AnkariaGame\bin\Debug\AnkariaGame.pdb
+C:\Users\cmcne\source\repos\AnkariaGame\AnkariaGame\obj\Debug\AnkariaGame.csprojAssemblyReference.cache
+C:\Users\cmcne\source\repos\AnkariaGame\AnkariaGame\obj\Debug\AnkariaGame.csproj.CoreCompileInputs.cache
+C:\Users\cmcne\source\repos\AnkariaGame\AnkariaGame\obj\Debug\AnkariaGame.exe
+C:\Users\cmcne\source\repos\AnkariaGame\AnkariaGame\obj\Debug\AnkariaGame.pdb
+D:\Cody\Google Drive\Bridge Valley\Fall 2018 Classes\C# Programming I\source\repos\AnkariaGame\AnkariaGame\bin\Debug\AnkariaGame.exe.config
+D:\Cody\Google Drive\Bridge Valley\Fall 2018 Classes\C# Programming I\source\repos\AnkariaGame\AnkariaGame\bin\Debug\AnkariaGame.exe
+D:\Cody\Google Drive\Bridge Valley\Fall 2018 Classes\C# Programming I\source\repos\AnkariaGame\AnkariaGame\bin\Debug\AnkariaGame.pdb
+D:\Cody\Google Drive\Bridge Valley\Fall 2018 Classes\C# Programming I\source\repos\AnkariaGame\AnkariaGame\obj\Debug\AnkariaGame.csprojAssemblyReference.cache
+D:\Cody\Google Drive\Bridge Valley\Fall 2018 Classes\C# Programming I\source\repos\AnkariaGame\AnkariaGame\obj\Debug\AnkariaGame.csproj.CoreCompileInputs.cache
+D:\Cody\Google Drive\Bridge Valley\Fall 2018 Classes\C# Programming I\source\repos\AnkariaGame\AnkariaGame\obj\Debug\AnkariaGame.exe
+D:\Cody\Google Drive\Bridge Valley\Fall 2018 Classes\C# Programming I\source\repos\AnkariaGame\AnkariaGame\obj\Debug\AnkariaGame.pdb
+D:\Cody\Google Drive\Bridge Valley\Fall 2018 Classes\C# Programming I\source\repos\AnkariaGameBackup\AnkariaGame\bin\Debug\AnkariaGame.exe.config
+D:\Cody\Google Drive\Bridge Valley\Fall 2018 Classes\C# Programming I\source\repos\AnkariaGameBackup\AnkariaGame\bin\Debug\AnkariaGame.exe
+D:\Cody\Google Drive\Bridge Valley\Fall 2018 Classes\C# Programming I\source\repos\AnkariaGameBackup\AnkariaGame\bin\Debug\AnkariaGame.pdb
+D:\Cody\Google Drive\Bridge Valley\Fall 2018 Classes\C# Programming I\source\repos\AnkariaGameBackup\AnkariaGame\obj\Debug\AnkariaGame.csprojAssemblyReference.cache
+D:\Cody\Google Drive\Bridge Valley\Fall 2018 Classes\C# Programming I\source\repos\AnkariaGameBackup\AnkariaGame\obj\Debug\AnkariaGame.csproj.CoreCompileInputs.cache
+D:\Cody\Google Drive\Bridge Valley\Fall 2018 Classes\C# Programming I\source\repos\AnkariaGameBackup\AnkariaGame\obj\Debug\AnkariaGame.exe
+D:\Cody\Google Drive\Bridge Valley\Fall 2018 Classes\C# Programming I\source\repos\AnkariaGameBackup\AnkariaGame\obj\Debug\AnkariaGame.pdb
+D:\Cody\Google Drive\Bridge Valley\Fall 2018 Classes\C# Programming I\source\repos\AnkariaGameTest\AnkariaGame\bin\Debug\AnkariaGame.exe.config
+D:\Cody\Google Drive\Bridge Valley\Fall 2018 Classes\C# Programming I\source\repos\AnkariaGameTest\AnkariaGame\bin\Debug\AnkariaGame.exe
+D:\Cody\Google Drive\Bridge Valley\Fall 2018 Classes\C# Programming I\source\repos\AnkariaGameTest\AnkariaGame\bin\Debug\AnkariaGame.pdb
+D:\Cody\Google Drive\Bridge Valley\Fall 2018 Classes\C# Programming I\source\repos\AnkariaGameTest\AnkariaGame\obj\Debug\AnkariaGame.csprojAssemblyReference.cache
+D:\Cody\Google Drive\Bridge Valley\Fall 2018 Classes\C# Programming I\source\repos\AnkariaGameTest\AnkariaGame\obj\Debug\AnkariaGame.csproj.CoreCompileInputs.cache
+D:\Cody\Google Drive\Bridge Valley\Fall 2018 Classes\C# Programming I\source\repos\AnkariaGameTest\AnkariaGame\obj\Debug\AnkariaGame.exe
+D:\Cody\Google Drive\Bridge Valley\Fall 2018 Classes\C# Programming I\source\repos\AnkariaGameTest\AnkariaGame\obj\Debug\AnkariaGame.pdb
+D:\Cody\Google Drive\Bridge Valley\Fall 2018 Classes\C# Programming I(A)\source\repos\AnkariaGame\AnkariaGame\bin\Debug\AnkariaGame.exe.config
+D:\Cody\Google Drive\Bridge Valley\Fall 2018 Classes\C# Programming I(A)\source\repos\AnkariaGame\AnkariaGame\bin\Debug\AnkariaGame.exe
+D:\Cody\Google Drive\Bridge Valley\Fall 2018 Classes\C# Programming I(A)\source\repos\AnkariaGame\AnkariaGame\bin\Debug\AnkariaGame.pdb
+D:\Cody\Google Drive\Bridge Valley\Fall 2018 Classes\C# Programming I(A)\source\repos\AnkariaGame\AnkariaGame\obj\Debug\AnkariaGame.csprojAssemblyReference.cache
+D:\Cody\Google Drive\Bridge Valley\Fall 2018 Classes\C# Programming I(A)\source\repos\AnkariaGame\AnkariaGame\obj\Debug\AnkariaGame.csproj.CoreCompileInputs.cache
+D:\Cody\Google Drive\Bridge Valley\Fall 2018 Classes\C# Programming I(A)\source\repos\AnkariaGame\AnkariaGame\obj\Debug\AnkariaGame.exe
+D:\Cody\Google Drive\Bridge Valley\Fall 2018 Classes\C# Programming I(A)\source\repos\AnkariaGame\AnkariaGame\obj\Debug\AnkariaGame.pdb
+C:\Users\cmcne\Google Drive\Bridge Valley\Fall 2018 Classes\C# Programming I(A)\source\repos\AnkariaGame\AnkariaGame\bin\Debug\AnkariaGame.exe.config
+C:\Users\cmcne\Google Drive\Bridge Valley\Fall 2018 Classes\C# Programming I(A)\source\repos\AnkariaGame\AnkariaGame\bin\Debug\AnkariaGame.exe
+C:\Users\cmcne\Google Drive\Bridge Valley\Fall 2018 Classes\C# Programming I(A)\source\repos\AnkariaGame\AnkariaGame\bin\Debug\AnkariaGame.pdb
+C:\Users\cmcne\Google Drive\Bridge Valley\Fall 2018 Classes\C# Programming I(A)\source\repos\AnkariaGame\AnkariaGame\obj\Debug\AnkariaGame.csprojAssemblyReference.cache
+C:\Users\cmcne\Google Drive\Bridge Valley\Fall 2018 Classes\C# Programming I(A)\source\repos\AnkariaGame\AnkariaGame\obj\Debug\AnkariaGame.csproj.CoreCompileInputs.cache
+C:\Users\cmcne\Google Drive\Bridge Valley\Fall 2018 Classes\C# Programming I(A)\source\repos\AnkariaGame\AnkariaGame\obj\Debug\AnkariaGame.exe
+C:\Users\cmcne\Google Drive\Bridge Valley\Fall 2018 Classes\C# Programming I(A)\source\repos\AnkariaGame\AnkariaGame\obj\Debug\AnkariaGame.pdb
